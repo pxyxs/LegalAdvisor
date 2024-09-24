@@ -1,0 +1,74 @@
+1. User: What is a power of attorney?
+   AI: A power of attorney is a legal document that allows one person to act on behalf of another in legal or financial matters.
+
+2. User: How do I contest a will?
+   AI: To contest a will, you typically need to file a petition with the probate court and prove that the will is invalid due to reasons like lack of capacity or undue influence.
+
+3. User: What are the rights of a tenant?
+   AI: Tenants have rights that vary by jurisdiction, but generally include the right to a habitable living space, protection from unlawful eviction, and the right to privacy.
+
+4. User: What does "breach of contract" mean?
+   AI: A breach of contract occurs when one party fails to fulfill their obligations under the terms of the contract.
+
+5. User: How can I file a small claims case?
+   AI: You can file a small claims case by completing the necessary forms at your local court, paying the filing fee, and serving the defendant with notice.
+
+6. User: What is the difference between a misdemeanor and a felony?
+   AI: A misdemeanor is a less severe crime usually punishable by fines or short jail time, while a felony is more serious, with harsher penalties including longer prison sentences.
+
+7. User: Can I sue for emotional distress?
+   AI: Yes, you can sue for emotional distress, but you typically need to show that the distress was caused by the defendant’s extreme or outrageous conduct.
+
+8. User: What is intellectual property?
+   AI: Intellectual property refers to creations of the mind, such as inventions, literary and artistic works, designs, symbols, and names used in commerce.
+
+9. User: What is the statute of limitations?
+   AI: The statute of limitations is the maximum time period allowed for a party to initiate legal proceedings from the date of the incident.
+
+10. User: How do I evict a tenant?
+    AI: To evict a tenant, you usually need to provide written notice and, if necessary, file an eviction lawsuit in your local court.
+
+11. User: What is an NDA?
+    AI: A Non-Disclosure Agreement (NDA) is a legal contract that prevents one party from disclosing confidential information shared by another party.
+
+12. User: What are the grounds for divorce?
+    AI: Common grounds for divorce include adultery, abandonment, and irreconcilable differences, but these vary by jurisdiction.
+
+13. User: What is a subpoena?
+    AI: A subpoena is a legal document that orders an individual to appear in court or produce evidence.
+
+14. User: How do I appeal a court decision?
+    AI: To appeal a court decision, you must file a notice of appeal within a specific time frame and submit the necessary documentation to the appellate court.
+
+15. User: What is a class action lawsuit?
+    AI: A class action lawsuit is a legal action filed by a group of people with similar claims against a defendant.
+
+16. User: Can I change my last name after marriage?
+    AI: Yes, you can change your last name after marriage, usually by submitting your marriage certificate to the relevant government agency.
+
+17. User: What is a legal guardian?
+    AI: A legal guardian is an individual appointed by the court to care for a minor or incapacitated person and manage their affairs.
+
+18. User: How does bankruptcy work?
+    AI: Bankruptcy is a legal process that allows individuals or businesses to eliminate or repay some or all of their debts under the protection of the federal bankruptcy court.
+
+19. User: What is tort law?
+    AI: Tort law involves cases where a person’s actions cause harm or loss to another, leading to civil liability.
+
+20. User: What are the types of business entities?
+    AI: Common types of business entities include sole proprietorships, partnerships, corporations, and limited liability companies (LLCs).
+
+21. User: How can I protect my business name?
+    AI: You can protect your business name by registering it as a trademark and ensuring it's not already in use by another entity.
+
+22. User: What is the purpose of a contract?
+    AI: A contract outlines the terms and conditions agreed upon by parties, creating legal obligations enforceable by law.
+
+23. User: What are parental rights?
+    AI: Parental rights refer to the legal rights and responsibilities of parents towards their children, including custody, visitation, and decision-making authority.
+
+24. User: How can I start a non-profit organization?
+    AI: To start a non-profit, you typically need to choose a name, draft bylaws, file for incorporation, and apply for tax-exempt status.
+
+25. User: What should I do if I am injured in an accident?
+    AI: If injured in an accident, seek medical attention, document the incident, gather witness information, and consider consulting a personal injury attorney.
